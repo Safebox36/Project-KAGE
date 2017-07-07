@@ -23,3 +23,5 @@ The core concept of the two enemies; light and darkness.
 No description.
 ### 1 - Enemies Created (6/7/17 by Matthew)
 Light enemy started and mostly completed. Shadow enemy started and basic movement done; rotation yet to be figured out.
+### 2 - Enemy Movement Improved (7/7/17 by Matthew)
+Light and Shadow enemy movements have been updated, they now rotate and walk between predefined points. Shadow has been set to run these points while Light has been set to walk them.
